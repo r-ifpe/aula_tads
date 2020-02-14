@@ -1,5 +1,6 @@
 # isto é um comentário
 
+# operação basica
 2 + 2 
 
 # instalar o pacote
